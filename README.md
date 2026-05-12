@@ -6,7 +6,7 @@ This project is an automated ETL (Extract, Transform, Load) pipeline designed to
 - **Google Cloud Platform:**
   - Cloud Storage
   - BigQuery
-  - Cloud Run Functions
+  - Cloud Run
   
 
 ## Project Workflow
